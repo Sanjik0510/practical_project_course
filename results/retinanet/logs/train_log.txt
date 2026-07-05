@@ -1,0 +1,5 @@
+Epoch 1/5 | Loss: 1.3889 | LR: 0.001000
+Epoch 2/5 | Loss: 1.1775 | LR: 0.001000
+Epoch 3/5 | Loss: 1.1264 | LR: 0.001000
+Epoch 4/5 | Loss: 1.1084 | LR: 0.001000
+Epoch 5/5 | Loss: 1.0811 | LR: 0.001000

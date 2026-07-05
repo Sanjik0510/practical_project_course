@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Веса моделей (ОБЯЗАТЕЛЬНО - они большие!)
+*.pt
+*.pth
+*.onnx
+*.weights
+
+# Данные (если большие)
+data/raw/images/*.jpg
+data/processed/
+
+# Результаты (только логи, не веса)
+results/*/weights/
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ultralytics
+yolov8n.pt
+yolov5nu.pt
